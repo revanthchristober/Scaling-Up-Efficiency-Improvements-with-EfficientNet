@@ -1,0 +1,8 @@
+train:
+  batch_size: 32
+  num_epochs: 10
+  learning_rate: 0.001
+
+data:
+  dataset: CIFAR10
+  image_size: 224
